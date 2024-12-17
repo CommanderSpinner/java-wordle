@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.wordl;
 
-/**
- *
- * @author Lorenz Schaller
- */
 public class Benutzer {
     private int bid;
     private String nickname;
