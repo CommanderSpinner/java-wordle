@@ -5,7 +5,6 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import javax.swing.JTextField;
 
-/* @author Lorenz Schaller */
 public class SingleCharacterTextField extends JTextField{
 
     public void setColor(Color c){
