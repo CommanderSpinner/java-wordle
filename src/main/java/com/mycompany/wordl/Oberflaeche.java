@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.wordl;
 
 import java.awt.Color;
@@ -13,10 +9,6 @@ import java.util.logging.Logger;
 import javax.swing.JFrame;
 import javax.swing.WindowConstants;
 
-/**
- *
- * @author Lorenz Schaller
- */
 public class Oberflaeche extends JFrame implements ActionListener{
     
     MenuLeiste ml;
