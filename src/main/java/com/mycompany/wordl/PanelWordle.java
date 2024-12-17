@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.wordl;
 
 import java.awt.Font;
@@ -15,10 +11,6 @@ import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.DocumentFilter;
 
-/**
- *
- * @author Lorenz Schaller
- */
 public class PanelWordle extends JPanel{
     SingleCharacterTextField txt_fields[][] = new SingleCharacterTextField[5][5];
     
